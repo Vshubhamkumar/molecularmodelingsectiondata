@@ -1,0 +1,56 @@
+S no	    Ligand		   Binding Affinity
+0               15a1_log              -9.8
+1               15b1_log             -10.6
+2               15c1_log             -10.1
+3               15d1_log             -10.8
+4               15e1_log             -10.1
+5               15f1_log              -9.6
+6               15g1_log             -10.7
+7               15h1_log              -9.6
+8               15i1_log              -9.8
+9               15j1_log             -10.4
+10              15k1_log             -10.2
+11              15l1_log             -10.6
+12              15m1_log              -9.8
+13              15n1_log              -9.8
+14              15o1_log             -10.7
+15              15p1_log              -9.5
+16               6a1_log              -9.1
+17               6b1_log             -10.0
+18               6c1_log             -10.0
+19               6d1_log             -10.2
+20               6e1_log             -10.3
+21               6f1_log              -9.8
+22               6g1_log             -10.1
+23               6h1_log             -10.0
+24               6i1_log              -9.1
+25               6j1_log              -9.5
+26               6k1_log              -9.7
+27               6l1_log              -9.6
+28               6m1_log              -9.9
+29               6n1_log              -9.2
+30               6o1_log             -10.4
+31               6p1_log             -10.1
+32               8a1_log             -10.0
+33               8b1_log             -10.0
+34               8c1_log             -10.2
+35               8d1_log             -10.2
+36               8e1_log             -10.5
+37               8f1_log             -10.3
+38               8g1_log             -10.4
+39               8h1_log             -10.0
+40               8i1_log             -10.1
+41               8j1_log              -9.9
+42               8k1_log              -9.8
+43               8l1_log              -9.8
+44               8m1_log              -9.9
+45               8n1_log              -9.8
+46               8o1_log             -10.1
+47               8p1_log             -10.0
+48  Abemaciclib_Std1_log              -9.1
+49  palbociclib_Std1_log             -10.1
+50   ribociclib_Std1_log             -10.6
+51          standard_log             -10.8
+
+Maximum Binding Affinity: -10.8 (Ligand: 15d1_log)
+Minimum Binding Affinity: -9.1 (Ligand: 6a1_log)
